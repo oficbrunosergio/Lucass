@@ -6,6 +6,16 @@
     font-weight: 400;
     color: #000000;
 }
+
+form {
+    width: 269px;
+    height: 62px;
+    
+
+
+}
+
+
 button {
     width: 269px;
     height: 62px;
@@ -15,7 +25,7 @@ button {
     text-align: center;
     color: #ffffff;
     background: #000000;
-    box-shadow: 0px 10px 24px rgba (0, 0, 0, 0.10);
+    box-shadow: 0px 10px 24  px rgba (0, 0, 0, 0.10);
     border: none;
     border-radius: 30px;
     cursor: pointer;
@@ -39,13 +49,14 @@ button:active {
     display: inline-block;
     width: 60%;
     padding-left: 136px;
-    
+
 }
 
 .container-right {
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.4);
     height: 100vh;
+    
 
 }
 
@@ -56,21 +67,30 @@ a {
     margin-left: 51px;
     margin-right: 41px;
     display: inline-block;
+    
+
+}
+
+.Texto_centro {
+    margin-left: 210px;
 
 }
 
 h1 {
-    font-size: 70px;
+    font-size: 90px;
     font-style: normal;
     font-weight: 400;
-    width: 368px;
+    width: 568px;
 }
+
+
+
 
 p {
     font-size: 28px;
     line-height: 48px;
     opacity: 0.6;
-    color: #000000;
+    color: #ffffff;
     width: 540px;
     margin: 15px 0;
 }
@@ -108,7 +128,9 @@ a:active {
  img {
     margin-top: 224px;
     margin-right: 185px;
-    border-radius: 65%
+    border-radius: 65%;
+    display: inline-block;
+    
     
 }
 
